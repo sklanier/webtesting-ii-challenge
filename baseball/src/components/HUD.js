@@ -65,7 +65,7 @@ class HUD extends Component {
           <h2>Strikes: {this.state.strikes}</h2>
         </div>
 
-        <Dashboard
+        <HUD
           hit={this.hit}
           strike={this.strike}
           foul={this.foul}
