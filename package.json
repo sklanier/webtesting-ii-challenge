@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-dom": "^16.8.6",
+    "react-dom-testing": "^1.7.0",
+    "react-testing-library": "^7.0.0"
+  }
+}
